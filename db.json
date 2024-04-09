@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "email": "shan",
+      "password": "shan2",
+      "id": "264694f7-e3e3-40ce-b030-170b28540bfd",
+      "todos": [
+        {
+          "title": "Wake UP ",
+          "status": false,
+          "id": 1
+        },
+        {
+          "title": "Shower",
+          "status": true,
+          "id": 2
+        },
+        {
+          "title": "Dinner",
+          "status": false,
+          "id": "e2f1b485-a23a-446a-9920-b703be54127f"
+        }
+      ]
+    },
+    {
+      "email": "jis",
+      "password": "jis2",
+      "id": "b05d0492-83b1-4f0b-afee-bdb198b37f50",
+      "todos": [
+        {
+          "title": "Snacks",
+          "status": false,
+          "id": "88da3765-dbea-4895-8a50-8f04e40a3744"
+        }
+      ]
+    },
+    {
+      "email": "shri",
+      "password": "shri2",
+      "id": "51e6f4d9-ae3f-4cbe-8e63-4787628bff31",
+      "todos": [
+        {
+          "title": "Wake",
+          "status": false,
+          "id": "8cdeaf8a-ee24-4e75-8ad2-ea21c9a3eec1"
+        }
+      ]
+    },
+    {
+      "email": "ali",
+      "password": "ali2",
+      "id": "77572024-31ff-465d-8317-480a2556ffd5",
+      "todos": [
+        {
+          "title": "wak up",
+          "status": false,
+          "id": "e67e8626-28e4-4f65-b0a8-a8770ae9387c"
+        }
+      ]
+    },
+    {
+      "email": "shan",
+      "password": "shan2",
+      "id": "c7815a86-700b-479b-a17b-9cbeb0b05ac6",
+      "todos": []
+    },
+    {
+      "email": "shan",
+      "password": "shan2",
+      "id": "f2bea75d-a8d1-4e84-af52-3dd0b2ebecd5",
+      "todos": []
+    }
+  ]
+}
